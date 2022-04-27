@@ -11,7 +11,7 @@ The projects contained are:
 
 ## Authors 
 - **Oladapo Olatunbosun** <[tuneboy2](https://github.com/tuneboy2)> 
-
+- **Alagbe Sunmbo Amos** <[Sunboy005](https://github.com/Sunboy005)>
 ## Acknowledgement
 All work contained in this prohect were done as part of the curriculum of the Side-Hustle Internship Program (Cohort 5.0)
 
