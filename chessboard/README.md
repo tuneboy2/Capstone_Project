@@ -1,5 +1,5 @@
 # ChessBoard 
-This folder contains `PHP`codes to create a ChessBoard
+This folder contains `PHP`codes in [chessboard.php](chessboard.php) to create a ChessBoard
 ## Task Description
 Write a Program to calculate the electric bill.
 
