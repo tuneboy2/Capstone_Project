@@ -12,5 +12,5 @@ The projects contained are:
 - **Oladapo Olatunbosun** <[tuneboy2](https://github.com/tuneboy2)> 
 
 ## Acknowledgement
-All work contained in this prohect were done as part of the curriculum of the Side-Hustle Internship Program (Batch 5.0)
+All work contained in this prohect were done as part of the curriculum of the Side-Hustle Internship Program (Cohort 5.0)
 
